@@ -116,24 +116,6 @@ md"""
 ```
 """
 
-# ╔═╡ 7e22c38c-2a49-4b18-aeb7-645708624cf4
-html"""
-<details>
-    <summary> A secret </summary>
-    <p> Pluto is fun </p>
-</details>
-"""
-
-# ╔═╡ f2737369-b148-4518-8eff-48cb493e4111
-md"""
-I don't really care if you actually read this...
-
-> But this is important!
-> I will ask this in the exam!
-
-And now you can go back to playing on your phone.
-"""
-
 # ╔═╡ 0e475473-4f65-4849-a3d5-28c6e38dcfec
 begin
 	struct Foldable{C}
